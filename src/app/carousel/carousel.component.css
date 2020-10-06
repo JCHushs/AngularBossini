@@ -1,0 +1,11 @@
+div #teste {
+    border: 1px solid black;
+    width: 1920px;
+    height: 350px;
+  }
+  
+  img {
+    width: 1920px;
+    height: 350px;
+    object-fit: fill;
+  }
